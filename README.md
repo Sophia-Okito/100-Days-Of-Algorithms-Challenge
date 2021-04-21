@@ -5,4 +5,7 @@
        
        Day-2-"Which are in?"
        Day-2-"Reversed sequence"
+       
+       Day-3-"String Repeat?"
+       Day-3-"Persistence"
 
