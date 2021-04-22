@@ -8,4 +8,7 @@
        
        Day-3-"String Repeat?"
        Day-3-"Persistence"
+       
+       Day-4-"Unique Digit?"
+       Day-4-"Count the Digit"
 
