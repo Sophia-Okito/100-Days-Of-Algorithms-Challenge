@@ -11,4 +11,7 @@
        
        Day-4-"Unique Digit?"
        Day-4-"Count the Digit"
+       
+       Day-5-"Reverse or Rotate?"
+       Day-5-"Sum of Angles"
 
