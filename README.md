@@ -14,4 +14,7 @@
        
        Day-5-"Reverse or Rotate?"
        Day-5-"Sum of Angles"
+       
+       Day-6-"Counting Duplicates?"
+       Day-6-"Sum of Mixed Array"
 
