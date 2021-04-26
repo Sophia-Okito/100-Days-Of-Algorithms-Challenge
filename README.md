@@ -17,4 +17,9 @@
        
        Day-6-"Counting Duplicates?"
        Day-6-"Sum of Mixed Array"
+       
+       Day-7-"Best Travel?"
+       
+       Day-8-"DontGiveMeFive?"
+       Day-8-"NumberWithDigitInside"
 
