@@ -22,4 +22,7 @@
        
        Day-8-"DontGiveMeFive?"
        Day-8-"NumberWithDigitInside"
+       
+       Day-9-"Disemvowel Troll?"
+       Day-9-"Move in Square String"
 
