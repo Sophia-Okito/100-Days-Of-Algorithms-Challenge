@@ -44,4 +44,9 @@ Algorithm for each day must be saved using the following form
   Day-9-"Disemvowel Troll?"
   
   Day-9-"Move in Square String"
+  
+  
+  Day-10-"Mumbling?"
+  
+  Day-10-"Century From Year"
 
