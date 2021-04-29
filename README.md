@@ -53,5 +53,5 @@ Algorithm for each day must be saved using the following form
   
   Day-11-"Calculate BMI"
   
-  Day-10-"Financing a purchase"
+  Day-11-"Financing a purchase"
 
