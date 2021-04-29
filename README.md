@@ -46,7 +46,12 @@ Algorithm for each day must be saved using the following form
   Day-9-"Move in Square String"
   
   
-  Day-10-"Mumbling?"
+  Day-10-"Mumbling"
   
   Day-10-"Century From Year"
+  
+  
+  Day-11-"Calculate BMI"
+  
+  Day-10-"Financing a purchase"
 
