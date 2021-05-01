@@ -59,4 +59,8 @@ Algorithm for each day must be saved using the following form
   Day-12-"Binary Gap"
   
   Day-12-"Cyclic Rotation"
+  
 
+  Day-13-"High and Low"
+  
+  Day-13-"Even or Odd"
