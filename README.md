@@ -64,3 +64,12 @@ Algorithm for each day must be saved using the following form
   Day-13-"High and Low"
   
   Day-13-"Even or Odds"
+  
+  
+
+  
+  
+  
+
+  Day-16-"BrakingWell"
+  
